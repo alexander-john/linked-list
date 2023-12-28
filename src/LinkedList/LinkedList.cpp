@@ -1,6 +1,10 @@
 #include "LinkedList\LinkedList.h"
 #include <iostream>
 
+/**
+ * printList iterates from head of node, prints data and replaces head
+ * with the next pointer. 
+*/
 void LinkedList::printList(Node* head)
 {
     Node* current = head;
