@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: C:/Projects/linked-lists
-# Build directory: C:/Projects/linked-lists/build
+# Source directory: C:/Projects/linked-list
+# Build directory: C:/Projects/linked-list/build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

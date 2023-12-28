@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Projects\linked-lists
+CMAKE_SOURCE_DIR = C:\Projects\linked-list
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Projects\linked-lists\build
+CMAKE_BINARY_DIR = C:\Projects\linked-list\build
 
 # Utility rule file for ContinuousSubmit.
 
@@ -81,6 +81,6 @@ CMakeFiles/ContinuousSubmit.dir/clean:
 .PHONY : CMakeFiles/ContinuousSubmit.dir/clean
 
 CMakeFiles/ContinuousSubmit.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Projects\linked-lists C:\Projects\linked-lists C:\Projects\linked-lists\build C:\Projects\linked-lists\build C:\Projects\linked-lists\build\CMakeFiles\ContinuousSubmit.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Projects\linked-list C:\Projects\linked-list C:\Projects\linked-list\build C:\Projects\linked-list\build C:\Projects\linked-list\build\CMakeFiles\ContinuousSubmit.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/ContinuousSubmit.dir/depend
 

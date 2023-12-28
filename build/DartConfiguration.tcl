@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: C:/Projects/linked-lists
-BuildDirectory: C:/Projects/linked-lists/build
+SourceDirectory: C:/Projects/linked-list
+BuildDirectory: C:/Projects/linked-list/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "C:/Projects/linked-lists"
+ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "C:/Projects/linked-list"
 MakeCommand: C:/Program\ Files/CMake/bin/cmake.exe --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 
