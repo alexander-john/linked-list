@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Projects/linked-list/build/src/LinkedList",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/LinkedList.dir/includes_CXX.rsp -g -o CMakeFiles\\LinkedList.dir\\LinkedList.cpp.obj -c C:\\Projects\\linked-list\\src\\LinkedList\\LinkedList.cpp",
+  "file": "C:/Projects/linked-list/src/LinkedList/LinkedList.cpp",
+  "output": "src/LinkedList/CMakeFiles/LinkedList.dir/LinkedList.cpp.obj"
+},
+{
+  "directory": "C:/Projects/linked-list/build/src/Node",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Node.dir/includes_CXX.rsp -g -o CMakeFiles\\Node.dir\\Node.cpp.obj -c C:\\Projects\\linked-list\\src\\Node\\Node.cpp",
+  "file": "C:/Projects/linked-list/src/Node/Node.cpp",
+  "output": "src/Node/CMakeFiles/Node.dir/Node.cpp.obj"
+},
+{
+  "directory": "C:/Projects/linked-list/build/src/Main",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/linked-list.dir/includes_CXX.rsp -g -o CMakeFiles\\linked-list.dir\\Main.cpp.obj -c C:\\Projects\\linked-list\\src\\Main\\Main.cpp",
+  "file": "C:/Projects/linked-list/src/Main/Main.cpp",
+  "output": "src/Main/CMakeFiles/linked-list.dir/Main.cpp.obj"
+}
+]

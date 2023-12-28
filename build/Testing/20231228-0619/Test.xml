@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20231228-0619-Experimental"
+	Name="DESKTOP-7OTF06U"
+	Generator="ctest-3.28.0-rc3"
+	CompilerName="C:/msys64/ucrt64/bin/g++.exe"
+	CompilerVersion="13.1.0"
+	OSName="Windows"
+	Hostname="DESKTOP-7OTF06U"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="7"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="40005"
+	TotalPhysicalMemory="32581"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2495"
+	>
+	<Testing>
+		<StartDateTime>Dec 28 01:32 Mountain Standard Time</StartDateTime>
+		<StartTestTime>1703752369</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 28 01:32 Mountain Standard Time</EndDateTime>
+		<EndTestTime>1703752369</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

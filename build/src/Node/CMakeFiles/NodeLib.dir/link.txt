@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libNodeLib.a CMakeFiles/NodeLib.dir/Node.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libNodeLib.a

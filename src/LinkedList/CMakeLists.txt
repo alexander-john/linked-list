@@ -1,0 +1,4 @@
+file(GLOB_RECURSE LinkedList_HEADER_FILES ${CMAKE_CURRENT_SOURCE_DIR}/*.h)
+file(GLOB_RECURSE LinkedList_SOURCE_FILES ${CMAKE_CURRENT_SOURCE_DIR}/*.cpp)
+
+add_library(LinkedList ${LinkedList_SOURCE_FILES} ${LinkedList_HEADER_FILES})

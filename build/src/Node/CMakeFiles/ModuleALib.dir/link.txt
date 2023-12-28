@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libModuleALib.a CMakeFiles/ModuleALib.dir/Node.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libModuleALib.a
