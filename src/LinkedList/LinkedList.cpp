@@ -1,5 +1,4 @@
 #include "LinkedList\LinkedList.h"
-#include "Node\Node.h"
 #include <iostream>
 
 void LinkedList::printList(Node* head)
