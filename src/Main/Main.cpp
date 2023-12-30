@@ -26,5 +26,11 @@ int main()
     LinkedList obj;
     obj.printList(head);
 
+    // memory needs to be deleted 
+    delete head->next->next->next;
+    delete head->next->next;
+    delete head->next;
+    delete head;
+
     return 0;
 }
